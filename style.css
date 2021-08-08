@@ -1,0 +1,88 @@
+.nav-link
+{
+    color: seashell !important;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.img1a{
+    width: 300px;
+    height: 100px;
+}
+.fa-shopping-cart
+
+{
+    font-size: 38px  !important;
+     
+}
+
+
+.maincard
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card1,.card2,.card3
+{
+    background-color: seashell;
+    box-shadow: 2px 4px 5px gray;
+    width: 360px;
+    height: 70px;
+    display: flex;
+    margin: 30px auto;
+  
+    
+}
+
+.fa-envelope-open,.fa-truck,.fa-headphones
+{
+    margin-left: 40px ;
+    font-size: 40px !important ;
+    margin-top: 10px;
+    float: left;
+    align-items: center;
+    color: maroon;
+}
+h1{
+    color:maroon;
+}
+
+.card-img-top
+{
+    width: 100%;
+
+}
+
+.btn-primary
+{
+    color:cornsilk;
+    background-color:firebrick;
+    box-shadow: 2px 3px 5px gray;
+    width: 100%;
+}
+
+.card-title
+{
+    text-align: center;
+    text-shadow: 2px 3px 3px gray;
+}
+.card-text
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    
+}
+.nv1
+{
+    background-color: rgb(64, 146, 137);
+    width: 100%;
+    height: 60px;
+}
+.pp1
+
+{
+    font-size: 30px;
+    text-align: center;
+}
